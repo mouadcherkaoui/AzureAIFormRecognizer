@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Administrator\\source\\repos\\formrecognizer-quickstart\\formrecognizer-quickstart.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Administrator\\source\\repos\\formrecognizer-quickstart\\formrecognizer-quickstart.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\formrecognizer-quickstart\\formrecognizer-quickstart.csproj",
+        "projectName": "formrecognizer-quickstart",
+        "projectPath": "C:\\Users\\Administrator\\source\\repos\\formrecognizer-quickstart\\formrecognizer-quickstart.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrator\\source\\repos\\formrecognizer-quickstart\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Users\\Administrator\\source\\repos\\BlazorApp1\\BlazorApp1": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/cherkaouimouad/BxBlazor/_packaging/BxBlazor/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/cherkaouimouad/NLayersApp.Authorization/_packaging/NLayersApp.Authorization/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/cherkaouimouad/NLayersApp.CQRS/_packaging/NLayersApp.CQRS/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/cherkaouimouad/NLayersApp.Controllers/_packaging/NLayersApp.Controllers/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/cherkaouimouad/NLayersApp.DynamicPermissions/_packaging/NLayersApp.DynamicPermissions/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/cherkaouimouad/NLayersApp.Persistence/_packaging/NLayersApp.Persistence/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Azure.AI.FormRecognizer": {
+              "target": "Package",
+              "version": "[1.0.0-preview.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

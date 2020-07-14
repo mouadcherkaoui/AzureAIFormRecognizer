@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\formrecognizer-quickstart\obj\Debug\netcoreapp3.1\formrecognizer-quickstart.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\formrecognizer-quickstart\obj\Debug\netcoreapp3.1\formrecognizer-quickstart.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\formrecognizer-quickstart\obj\Debug\netcoreapp3.1\formrecognizer-quickstart.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\formrecognizer-quickstart\obj\Debug\netcoreapp3.1\formrecognizer-quickstart.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\formrecognizer-quickstart\bin\Debug\netcoreapp3.1\formrecognizer-quickstart.exe
+C:\Users\Administrator\source\repos\formrecognizer-quickstart\bin\Debug\netcoreapp3.1\formrecognizer-quickstart.deps.json
+C:\Users\Administrator\source\repos\formrecognizer-quickstart\bin\Debug\netcoreapp3.1\formrecognizer-quickstart.runtimeconfig.json
+C:\Users\Administrator\source\repos\formrecognizer-quickstart\bin\Debug\netcoreapp3.1\formrecognizer-quickstart.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\formrecognizer-quickstart\bin\Debug\netcoreapp3.1\formrecognizer-quickstart.dll
+C:\Users\Administrator\source\repos\formrecognizer-quickstart\bin\Debug\netcoreapp3.1\formrecognizer-quickstart.pdb
+C:\Users\Administrator\source\repos\formrecognizer-quickstart\bin\Debug\netcoreapp3.1\Azure.AI.FormRecognizer.dll
+C:\Users\Administrator\source\repos\formrecognizer-quickstart\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Administrator\source\repos\formrecognizer-quickstart\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\source\repos\formrecognizer-quickstart\obj\Debug\netcoreapp3.1\formrecognizer-quickstart.csproj.CopyComplete
+C:\Users\Administrator\source\repos\formrecognizer-quickstart\obj\Debug\netcoreapp3.1\formrecognizer-quickstart.dll
+C:\Users\Administrator\source\repos\formrecognizer-quickstart\obj\Debug\netcoreapp3.1\formrecognizer-quickstart.pdb
+C:\Users\Administrator\source\repos\formrecognizer-quickstart\obj\Debug\netcoreapp3.1\formrecognizer-quickstart.genruntimeconfig.cache
